@@ -1,0 +1,4 @@
+mean radius,mean texture,mean perimeter,mean area,mean smoothness,mean compactness,mean concavity,mean concave points,mean symmetry,mean fractal dimension
+14.2,20.0,92.0,620.0,0.095,0.12,0.13,0.07,0.18,0.06
+17.5,25.0,120.0,980.0,0.105,0.20,0.25,0.13,0.24,0.08
+15.8,21.8,103.0,760.0,0.099,0.14,0.18,0.09,0.20,0.07
